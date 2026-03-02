@@ -1,6 +1,2 @@
-__pycache__/
-*.py[cod]
-*.env
 .env
-*.log
-.DS_Store
+news_tool.py
